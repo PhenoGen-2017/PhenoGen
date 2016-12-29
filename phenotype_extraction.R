@@ -1,5 +1,4 @@
 #This is our code
 
 # first section -----------------------------------------------------------
-print("ali yaret")
-
+my_first_list = list()
