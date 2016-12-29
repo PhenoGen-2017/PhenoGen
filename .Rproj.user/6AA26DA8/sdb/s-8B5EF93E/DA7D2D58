@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "salam salam\n",
+    "created" : 1483046497728.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2622231990",
+    "id" : "DA7D2D58",
+    "lastKnownWriteTime" : 1483046527,
+    "last_content_update" : 1483046527722,
+    "path" : "~/PhenoGen/src/eli.R",
+    "project_path" : "src/eli.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
